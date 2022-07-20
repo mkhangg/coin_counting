@@ -1,0 +1,3 @@
+/home/khang/me/hw2/build/CMakeFiles/count_coin.dir
+/home/khang/me/hw2/build/CMakeFiles/edit_cache.dir
+/home/khang/me/hw2/build/CMakeFiles/rebuild_cache.dir
