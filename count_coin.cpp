@@ -1,3 +1,9 @@
+/***********************************************************************************************************************
+* @file: count_coin.cpp
+* @brief: coin counting program using morphological analysis
+* @author: khang nguyen
+***********************************************************************************************************************/
+
 #include <string>
 #include <iostream>
 #include <algorithm>
